@@ -1,7 +1,6 @@
 <?php
 
 	/* ==========================================================================
-		@author Grant McKenzie
 		@date May 2022
 		@details Look through tweet content and extract foursquare checkins
 	========================================================================== */

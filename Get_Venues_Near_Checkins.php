@@ -1,7 +1,6 @@
 <?php
 
     /* ==========================================================================
-        @author Grant McKenzie
         @date May 2022
         @details Get the closest ~50 venues nearest the checkin location
     ========================================================================== */
